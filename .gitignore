@@ -1,0 +1,4 @@
+# Project exclude paths
+/KotlinLearning/.gradle/
+/KotlinLearning/build/
+/KotlinLearning/build/classes/kotlin/native/main/klib/
