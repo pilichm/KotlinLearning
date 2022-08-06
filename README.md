@@ -7,4 +7,6 @@ Includes:
 
 /src/nativeMain/kotlin/KotlinFunctions.kt - basics of functions, loops, filters and lambdas.
 
-src/nativeMain/kotlin/Classes.kt - basics of classes, abstract classes, sealed classes, interfaces, enums and inheritance.
+/src/nativeMain/kotlin/Classes.kt - basics of classes, abstract classes, sealed classes, interfaces, enums and inheritance.
+
+/src/nativeMain/kotlin/KotlinGenericsPairsCollections.kt - pairs, collections, constants, extension functions and generics.
